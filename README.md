@@ -5,7 +5,7 @@ CS Student
 ----------
 
 *   🌍  I'm based in Slovakia
-*   🧠  I'm learning Solidity and LLMs
+*   🧠  I'm learning Solidity, LLMs, Web & Mobile dev, Gamedev 
 
 ### Skills 
 
