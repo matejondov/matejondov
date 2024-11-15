@@ -1,4 +1,4 @@
-<h3 align="center">Hey there 👋</h3>
+<h3 align="left">Hey there 👋</h3>
 
 ### 
 
